@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- LineageOS additions -->
+  <project path="vendor/tharow" name="Tharow-Services/tharow-vendor" revision="master" />
+</manifest>
